@@ -20,4 +20,4 @@ CSS: Styled the drum pads and overall design for a visually appealing experience
 JavaScript: Implemented the functionality of playing drum sounds, handling user interactions, and adding animations.
 
 Enjoy creating awesome beats with the Drum Kit!
-Thankyou! 
+Thankyou!
