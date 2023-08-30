@@ -14,7 +14,7 @@ for (var i=0; i< numberOfDrumButtons; i++){
  
 
 //Detecting keyboard press
-document.addEventListener("keydown", function(event) {          // --> In below line Instead of keydown we can also use keypress only difference is that keypress doesn't work for functional keys like control, shift, windows, etc.
+document.addEventListener("keydown", function(event) {  
     makeSound(event.key);
     buttonAnimation(event.key);
 
